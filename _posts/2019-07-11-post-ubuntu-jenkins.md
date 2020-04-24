@@ -2,7 +2,7 @@
 title: "Ubuntu에 Jenkins 설치하기"
 comment: true
 date: 2019-07-10
-categories: [CI&CD, Jenkins]
+categories: [CI&amp;CD, Jenkins]
 tags: [Jenkins, Ubuntu]
 last_modified_at: 2019-07-10T18:45:25-05:00
 
