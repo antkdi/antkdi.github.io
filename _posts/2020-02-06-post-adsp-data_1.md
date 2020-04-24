@@ -2,12 +2,9 @@
 title: "ADSP 1과목 1장 데이터의 이해"
 comment: true
 date: 2020-02-06
-categories:
-  - License
-tags:
-  - Data Analysis
-  - ADSP
-  - ADP
+categories: [Study, License]
+tags: [Data Analysis, ADSP, ADP]
+
 ---
 
 ### ADSP 1과목 - 1장 데이터의 이해 요약
