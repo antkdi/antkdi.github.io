@@ -2,7 +2,7 @@
 title: "SQLD 모델링 요약"
 comment: true
 date: 2017-07-08
-categories: [Study, License, SQLD]
+categories: [License, SQLD]
 tags: [Modeling]
 
 ---

@@ -2,7 +2,7 @@
 title: "SQLD SQL DDL( DATA DEFENITION LANGUAGE )"
 comment: true
 date: 2017-07-18
-categories: [Study, License, SQLD]
+categories: [License, SQLD]
 tags: [DDL]
 
 ---

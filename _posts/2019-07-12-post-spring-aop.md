@@ -2,7 +2,7 @@
 title: "Spring AOP 와 Custom Annotation"
 comment: true
 date: 2019-07-15
-categories: [Programing, Language, Java]
+categories: [Programing, Java]
 tags: [SpringBoot, Annotaion, AOP]
 
 ---

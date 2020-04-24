@@ -2,7 +2,7 @@
 title: "jQuery를 이용한 롤링 배너"
 comment: true
 date: 2018-07-19
-categories: [Programing, Language, Javascript]
+categories: [Programing, Javascript]
 tags: [JQuery, Rolling Banner]
 
 ---

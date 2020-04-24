@@ -2,7 +2,7 @@
 title: "브라우저 호환성 보기"
 comment: true
 date: 2018-07-19
-categories: [Programing, Language, Web]
+categories: [Programing, Web]
 tags: [HTML, Meta Tag]
 
 ---

@@ -2,7 +2,7 @@
 title: "Oracle Grouping Function"
 comment: true
 date: 2019-07-16
-categories: [Programing, DBMS, Oracle]
+categories: [DBMS, Oracle]
 tags: [ROLLUP, CUBE, SQL]
 
 ---

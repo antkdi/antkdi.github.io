@@ -2,7 +2,7 @@
 title: "Stream API Distinct '중복제거'"
 comment: true
 date: 2019-07-10
-categories: [Programing, Language, Java]
+categories: [Programing, Java]
 tags: [Stream API, Distinct]
 last_modified_at: 2019-07-10T18:45:25-05:00
 ---

@@ -2,7 +2,7 @@
 title: "SQLD 엔터티(Entity) 요약"
 comment: true
 date: 2017-07-18
-categories: [Study, License, SQLD]
+categories: [License, SQLD]
 tags: [Entity]
 
 ---

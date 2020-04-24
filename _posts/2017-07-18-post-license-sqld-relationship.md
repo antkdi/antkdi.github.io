@@ -2,7 +2,7 @@
 title: "SQLD 관계(Relationship) 요약"
 comment: true
 date: 2017-07-18
-categories: [Study, License, SQLD]
+categories: [License, SQLD]
 tags: [Relationship]
 
 ---
