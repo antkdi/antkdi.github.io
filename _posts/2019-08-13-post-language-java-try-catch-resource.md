@@ -2,12 +2,9 @@
 title: "try-catch-resources 와 예외처리"
 comment: true
 date: 2019-08-13
-categories:
-  - Language
-tags:
-  - Java 
-  - Exception
-  - Try-Catch-Resources
+categories: [Programing, Language, Java]
+tags: [Exception, Try-Catch-Resources, Try-Catch]
+
 ---
 
 <style>

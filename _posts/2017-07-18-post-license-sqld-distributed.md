@@ -2,11 +2,9 @@
 title: "SQLD 분산 데이터베이스와 성능 요약"
 comment: true
 date: 2017-07-18
-categories:
-  - License
-tags:
-  - SQLD
-  - Distribute
+categories: [Study, License, SQLD]
+tags: [Distribute]
+
 ---
 
 제6절 분산 데이터베이스와 성능

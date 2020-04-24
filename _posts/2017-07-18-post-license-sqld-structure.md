@@ -2,11 +2,9 @@
 title: "SQLD 데이터베이스 구조와 성능 요약"
 comments: true
 date: 2017-07-18
-categories:
-  - License
-tags:
-  - SQLD
-  - Structure
+categories: [Study, License, SQLD]
+tags: [Structure]
+
 ---
 
 제5절 데이터베이스 구조와 성능

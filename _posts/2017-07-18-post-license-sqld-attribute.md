@@ -2,11 +2,9 @@
 title: "SQLD 속성(Attribute) 요약"
 comment: true
 date: 2017-07-18
-categories:
-  - License
-tags:
-  - SQLD
-  - Attribute
+categories: [Study, License, SQLD]
+tags: [Attribute]
+
 ---
 
 제1장 3절 속성(Attribute)

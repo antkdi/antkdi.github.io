@@ -2,12 +2,9 @@
 title: "Backbone.js View 생성해보기"
 comment: true
 date: 2019-07-22
-categories:
-  - Language
-tags:
-  - Javascript
-  - Backbone.js
-  - View
+categories: [Programing, Language, Backbone.js]
+tags: [View]
+
 ---
 
 ### Backbone.js View 생성해보기

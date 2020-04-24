@@ -2,13 +2,9 @@
 title: "Spring AOP 와 Custom Annotation"
 comment: true
 date: 2019-07-15
-categories:
-  - Language
-tags:
-  - Java
-  - Spring Boot
-  - Annotaion
-  - AOP
+categories: [Programing, Language, Java]
+tags: [SpringBoot, Annotaion, AOP]
+
 ---
 
 ## Spring AOP로 Custom Annotation을 통해 로깅하기 

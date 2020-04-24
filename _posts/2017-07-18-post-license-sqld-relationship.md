@@ -2,11 +2,9 @@
 title: "SQLD 관계(Relationship) 요약"
 comment: true
 date: 2017-07-18
-categories:
-  - License
-tags:
-  - SQLD
-  - Relationship
+categories: [Study, License, SQLD]
+tags: [Relationship]
+
 ---
 
 제1장 제4절 관계(Relationship)

@@ -2,11 +2,9 @@
 title: "Backbone.js 시작하기"
 comment: true
 date: 2019-07-19
-categories:
-  - Language
-tags:
-  - Javascript
-  - Backbone.js
+categories: [Programing, Language, Backbone.js]
+tags: [Getting Started]
+
 ---
 
 ### Backbone.js 시작하기

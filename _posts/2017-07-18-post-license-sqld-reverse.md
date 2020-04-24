@@ -2,11 +2,9 @@
 title: "SQLD 반정규화 (Reverse Data Modeling) 요약"
 date: 2017-07-18
 comments: true
-categories:
-  - License
-tags:
-  - SQLD
-  - Reverse Data Modeling
+categories: [Study, License, SQLD]
+tags: [Reverse Data Modeling]
+
 ---
 
 제3절 반정규화와 성능

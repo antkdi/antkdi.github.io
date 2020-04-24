@@ -2,13 +2,9 @@
 title: "Spring Async Annotation과 Thread Pool 관리하기"
 comment: true
 date: 2019-07-11
-categories:
-  - Language
-tags:
-  - Java
-  - Spring Boot
-  - Async
-  - ThreadPoolTaskExecutor
+categories: [Programing, Language, Java]
+tags: [Spring Boot, Async, ThreadPoolTaskExecutor]
+
 ---
 
 

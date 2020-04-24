@@ -2,11 +2,9 @@
 title: "SQLD 모델링 요약"
 comment: true
 date: 2017-07-08
-categories:
-  - License
-tags:
-  - SQLD
-  - Modeling
+categories: [Study, License, SQLD]
+tags: [Modeling]
+
 ---
 
 제 1장 1절  모델링의 이해

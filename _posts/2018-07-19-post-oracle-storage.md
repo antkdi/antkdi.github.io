@@ -2,11 +2,9 @@
 title: "Oracle 용량 산정하기"
 comment: true
 date: 2018-07-19
-categories:
-  - DBMS
-tags:
-  - Oracle
-  - Storage
+categories: [Programing, DBMS, Oracle]
+tags: [Environment, Storage]
+
 ---
 
 ## Oracle 용량 산정하기

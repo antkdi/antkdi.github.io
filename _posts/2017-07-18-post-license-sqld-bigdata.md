@@ -2,11 +2,9 @@
 title: "SQLD 대량 데이터에 따른 성능 (BigData) 요약"
 comment: true
 date: 2017-07-18
-categories:
-  - License
-tags:
-  - SQLD
-  - BigData
+categories: [Study, License, SQLD]
+tags: [BigData]
+
 ---
 
 제4절 대량 데이터에 따른 성능

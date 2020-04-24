@@ -2,11 +2,9 @@
 title: "지킬(Jekyll) 포스트 비공개로 발행 하기"
 comment: true
 date: 2019-07-11
-categories:
-  - Blog
-tags:
-  - Jekyll
-  - published
+categories: [Blogging, Jekyll]
+tags: [published]
+
 ---
 
 ### 지킬(Jekyll) 포스트 비공개로 발행 하기

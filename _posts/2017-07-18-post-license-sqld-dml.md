@@ -2,11 +2,9 @@
 title: "SQLD SQL DML( DATA MANIPULATION LANGUAGE )"
 comment: true
 date: 2017-07-18
-categories:
-  - License
-tags:
-  - SQLD
-  - DML
+categories: [Study, License, SQLD]
+tags: [DML]
+
 ---
 
 제3절 DML ( DATA MANIPULATION LANGUAGE )

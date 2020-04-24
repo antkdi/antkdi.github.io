@@ -2,11 +2,8 @@
 title: "SQLD 성능 데이터 모델링 요약"
 comment: true
 date: 2017-07-18
-categories:
-  - License
-tags:
-  - SQLD
-  - Modeling
+categories: [Study, License, SQLD]
+tags: [Modeling]
 ---
 
 제2장 1절 성능 데이터 모델링 개요

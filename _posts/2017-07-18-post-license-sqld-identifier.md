@@ -2,11 +2,9 @@
 title: "SQLD 식별자 (Identifier) 요약"
 comment: true
 date: 2017-07-18
-categories:
-  - License
-tags:
-  - SQLD
-  - Identifier
+categories: [Study, License, SQLD]
+tags: [Identifier]
+
 ---
 
 제1장 5절 식별자 (Identifier)

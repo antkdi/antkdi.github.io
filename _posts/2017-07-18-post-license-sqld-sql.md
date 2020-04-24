@@ -2,14 +2,9 @@
 title: "SQLD SQL 문장들의 종류"
 date: 2017-07-18
 comments: true
-categories:
-  - License
-tags:
-  - SQLD
-  - DML
-  - DDL
-  - DCL
-  - TCL
+categories: [Study, License, SQLD]
+tags: [DML, DDL, DCL, TCL]
+
 ---
 
 1.SQL 문장들의 종류

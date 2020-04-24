@@ -2,11 +2,9 @@
 title: "SQLD SQL TCL( TRANSACTION CONTROLL LANGUAGE )"
 comments: true
 date: 2017-07-18
-categories:
-  - License
-tags:
-  - SQLD
-  - TCL
+categories: [Study, License, SQLD]
+tags: [TCL]
+
 ---
 
 제4절 TCL ( TRANSACTION CONTROLL LANGUAGE )
