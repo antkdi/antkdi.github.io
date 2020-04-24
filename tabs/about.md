@@ -6,7 +6,7 @@ title: About
 # https://github.com/antkdi
 ---
 
-<h1 style='font-size:68px;line-height:1.4em;letter-spacing:16px;float:left;'> 안녕하세요.<br> 정현근입니다.</h1>
+<h1 style='font-size:68px;line-height:1.4em;letter-spacing:16px;'> 안녕하세요.<br> 정현근입니다.</h1>
 
 <br>
 <br>
