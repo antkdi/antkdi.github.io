@@ -3,7 +3,7 @@ title: "Spring Async Annotation과 Thread Pool 관리하기"
 comment: true
 date: 2019-07-11
 categories: [Programing, Java]
-tags: [Spring Boot, Async, ThreadPoolTaskExecutor]
+tags: [Spring Boot, Annotation, Async, Thread, ThreadPoolTaskExecutor]
 
 ---
 
@@ -66,7 +66,7 @@ public class PrintService {
 	- 스프링의 Bean으로 등록되어야만 스프링에서 호출 가능 하기 때문
  - 호출하려는 메소드는 접근제어자가 public 이어야 한다.
 	- 내부적으로 AOP로 메소드를 가로채서 수행하기 때문에 public이 아닌 경우 접근이 안되기 때문
- 
+
 
 #### Spring 에서 Thread 관리 하기
 `@Async` 는 설정 하지 않으면 `SimpleAsyncTaskExecutor`를 사용하게 됩니다.
