@@ -1,12 +1,12 @@
 ---
-title: "URL 줄이기, URL Shortener (1)"
+title: "SpringBoot로 완성하는 URL Shortener (1)"
 comment: true
 date: 2020-04-26
 categories: [Programing, Java]
 tags: [URL-Shortener, SpringBoot]
 ---
 
-## URL 줄이기, URL Shortener (1) 
+## SpringBoot로 완성하는 URL Shortener (1)  
 
 #### 1. URL 주소 줄이기 , Url-Shortener란 ?
 
