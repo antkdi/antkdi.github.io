@@ -534,9 +534,9 @@ public class UrlShortDao {
 
 - 인풋을 과 버튼을 만들어 ajax로 간단하게 작성
 
-```JSP
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-         pageEncoding="UTF-8"%>
+```jsp
+
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="kr">
 <head>
