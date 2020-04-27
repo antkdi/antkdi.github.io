@@ -530,7 +530,7 @@ public class UrlShortDao {
 
 
 
-#### 4.8 View (JSP) - WEB-INF/views/home.jsp
+#### 4.9 View (JSP) - WEB-INF/views/home.jsp
 
 - 인풋을 과 버튼을 만들어 ajax로 간단하게 작성
 
