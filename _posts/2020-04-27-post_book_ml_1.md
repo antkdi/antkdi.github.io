@@ -1,7 +1,7 @@
 ---
 title: "머신러닝의 세가지 종류(1)"
 comment: true
-date: 2020-04-26
+date: 2020-04-27
 categories: [Data-Mining, Machine-learning]
 tags: [Machine-learning, ML, python]
 ---
