@@ -1,7 +1,7 @@
 ---
-title: "URL 줄이기, URL Shortener (2)"
+title: "SpringBoot로 완성하는 URL Shortener (2)"
 comment: true
-date: 2020-04-26
+date: 2020-04-28
 categories: [Programing, Java]
 tags: [URL-Shortener, SpringBoot, H2, Base62]
 
