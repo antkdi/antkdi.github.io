@@ -2,13 +2,9 @@
 title: "Stream API Distinct '중복제거'"
 comment: true
 date: 2019-07-10
-categories:
-  - Language
+categories: [Programing, Java]
+tags: [Stream API, Distinct]
 last_modified_at: 2019-07-10T18:45:25-05:00
-tags:
-  - Java
-  - Stream API
-  - Distinct
 ---
 
 ### Predicate를 이용한 다중 속성 중복 제거.

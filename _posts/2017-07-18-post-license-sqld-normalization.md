@@ -2,11 +2,9 @@
 title: "SQLD 정규화 (Normalization) 요약"
 comment: true
 date: 2017-07-18
-categories:
-  - License
-tags:
-  - SQLD
-  - Normalization
+categories: [License, SQLD]
+tags: [Normalization]
+
 ---
 
 

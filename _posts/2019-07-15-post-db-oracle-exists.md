@@ -2,12 +2,9 @@
 title: "Oracle EXISTS 와 IN 연산자 바로 알기"
 comment: true
 date: 2019-07-15
-categories:
-  - DBMS
-tags:
-  - Oracle
-  - EXISTS
-  - NOT IN
+categories: [DBMS, Oracle]
+tags: [EXISTS, NOT IN, SQL]
+
 ---
 
 ## Oracle EXISTS 와 IN 연산자 바로 알기

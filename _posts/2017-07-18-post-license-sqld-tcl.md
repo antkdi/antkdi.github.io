@@ -2,18 +2,16 @@
 title: "SQLD SQL TCL( TRANSACTION CONTROLL LANGUAGE )"
 comments: true
 date: 2017-07-18
-categories:
-  - License
-tags:
-  - SQLD
-  - TCL
+categories: [License, SQLD]
+tags: [TCL, TRANSACTION]
+
 ---
 
-제4절 TCL ( TRANSACTION CONTROLL LANGUAGE )
+### 제4절 TCL ( TRANSACTION CONTROLL LANGUAGE )
 
  
 
-1. 트랜잭션 개요
+#### 1. 트랜잭션 개요
  - 트랜잭션은 데이터베이스의 논리적 연산단위
  
  * 트랜잭션의 특성
@@ -24,7 +22,7 @@ tags:
    - 지속성 : 트랜잭션이 성공적으로 수행되면 그 트랜잭션이 갱신한 데이터베이스의 내용은 영구적으로 저장된다.
   *  ** 중요함 **
   
-2. COMMIT 
+#### 2. COMMIT 
  - 입력한 자료나 수정한 자료에 대해서 또는 삭제한 자료에 대해서 전혀 문제가 없다고 판단되면, 트랜잭션은 완료할수 있다.
  - 단지 메모리 버퍼에만 영향을 받았기 때문에 데이터의 변경 이전 상태로 복구가능
  - 현재 SELECT 문장으로 결과를 확인 가능하다.
@@ -47,12 +45,12 @@ tags:
   - 트랜잭션의 시작과 끝을 모두 사용자가 처리하는 방식
   - BEGIN TRANSACTION 으로 시작 - > COMMIT 또는 ROLLBACK 으로 트랜잭션을 종료
  
-3. ROLLBACK
+#### 3. ROLLBACK
  - 입력한 데이터나, 수정한 데이터, 삭제한 데이터에 대해서 COMMIT 이전에는 변경 사항을 취소 할수 있는 기능
 
  
 
-4. SAVEPOINT
+#### 4. SAVEPOINT
  - 저장점을 정의해서 ROLLBACK 시 저장점으로 돌아갈수 있다.
  EX) SAVEPOINT [SAVEPOINT_NAME]; 
  EX) ROLLBACK TO [SAVEPOINT_NAME];

@@ -2,13 +2,9 @@
 title: "Oracle Grouping Function"
 comment: true
 date: 2019-07-16
-categories:
-  - DBMS
-tags:
-  - Oracle
-  - ROLLUP
-  - CUBE
-  - SQL
+categories: [DBMS, Oracle]
+tags: [ROLLUP, CUBE, SQL]
+
 ---
 
 ## Oracle Grouping Function
