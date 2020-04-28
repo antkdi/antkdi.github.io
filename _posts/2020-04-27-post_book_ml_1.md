@@ -9,7 +9,7 @@ tags: [Machine-learning, ML, python]
 
 ### 1.2 머신러닝의 세가지 종류
 
-![20200427-1](https://user-images.githubusercontent.com/5414251/80368842-55a5fe00-88c8-11ea-9f54-90bc9b97ade1.png)
+![a0c203da-677c-469a-a96d-74a518c2d241](https://user-images.githubusercontent.com/5414251/80517635-5457fc80-89c0-11ea-9e17-488bfb6bb0c0.png)
 
 
 
