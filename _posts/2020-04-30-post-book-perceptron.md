@@ -1,7 +1,7 @@
 ---
 title: "코드로 살펴보는 객체지향 퍼셉트론 (1)"
 comment: true
-date: 2020-04-27
+date: 2020-04-30
 categories: [Data-Mining, Machine-learning]
 tags: [Perceptron, ML, python]
 
