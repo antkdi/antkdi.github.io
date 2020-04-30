@@ -3,7 +3,7 @@ title: "2020.04.30 - 회고의 시작"
 comment: true
 date: 2020-04-30
 categories: [Retrospective]
-tags: [Retrospective, 회고]
+tags: [Retrospective, 202004]
 
 ---
 
