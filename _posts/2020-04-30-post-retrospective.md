@@ -1,8 +1,8 @@
 ---
-title: "2020.04.30 - 회고의 시작"
+title: "회고를 작성해 보기로 했다."
 comment: true
 date: 2020-04-30
-categories: [Retrospective, 202004]
+categories: [Retrospective, intro]
 tags: [Retrospective]
 
 ---
