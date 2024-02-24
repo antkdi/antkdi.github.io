@@ -1,15 +1,3 @@
-PATH
-  remote: .
-  specs:
-    jekyll-theme-chirpy (6.5.0)
-      jekyll (~> 4.3)
-      jekyll-archives (~> 2.2)
-      jekyll-include-cache (~> 0.2)
-      jekyll-paginate (~> 1.1)
-      jekyll-redirect-from (~> 0.16)
-      jekyll-seo-tag (~> 2.8)
-      jekyll-sitemap (~> 1.4)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -23,11 +11,9 @@ GEM
     ethon (0.16.0)
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
-    ffi (1.16.3)
     ffi (1.16.3-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     google-protobuf (3.25.3-x64-mingw-ucrt)
-    google-protobuf (3.25.3-x86_64-linux)
     html-proofer (4.4.3)
       addressable (~> 2.3)
       mercenary (~> 0.3)
@@ -69,6 +55,14 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-theme-chirpy (6.5.0)
+      jekyll (~> 4.3)
+      jekyll-archives (~> 2.2)
+      jekyll-include-cache (~> 0.2)
+      jekyll-paginate (~> 1.1)
+      jekyll-redirect-from (~> 0.16)
+      jekyll-seo-tag (~> 2.8)
+      jekyll-sitemap (~> 1.4)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -81,8 +75,6 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
     nokogiri (1.16.2-x64-mingw-ucrt)
-      racc (~> 1.4)
-    nokogiri (1.16.2-x86_64-linux)
       racc (~> 1.4)
     parallel (1.24.0)
     pathutil (0.16.2)
@@ -97,8 +89,6 @@ GEM
     rouge (4.2.0)
     safe_yaml (1.0.5)
     sass-embedded (1.71.1-x64-mingw-ucrt)
-      google-protobuf (~> 3.25)
-    sass-embedded (1.71.1-x86_64-linux-gnu)
       google-protobuf (~> 3.25)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
@@ -116,12 +106,11 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
-  x86_64-linux
 
 DEPENDENCIES
   html-proofer (~> 4.4)
   http_parser.rb (~> 0.6.0)
-  jekyll-theme-chirpy!
+  jekyll-theme-chirpy (~> 6.5)
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)
