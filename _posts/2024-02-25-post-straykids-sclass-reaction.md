@@ -126,19 +126,20 @@ Everyday
 
 ### 특 리액션 모움 
 
-[해외 리액션 모음]https://youtu.be/ApemV4No6cg)
+[![해외 리액션 모음](http://img.youtube.com/vi/ApemV4No6cg/0.jpg)](https://youtu.be/ApemV4No6cg?t=0s)
 
 
-[해외 리액션1](https://youtu.be/MEwQc_hS750)
+[![해외 리액션1](http://img.youtube.com/vi/MEwQc_hS750/0.jpg)](https://youtu.be/MEwQc_hS750?t=0s)
 
 
-[해외 리액션2](https://youtu.be/QNOmkLzpDv8)
+[![해외 리액션2](http://img.youtube.com/vi/QNOmkLzpDv8/0.jpg)](https://youtu.be/QNOmkLzpDv8?t=0s)
 
 
-[해외 리액션3](https://youtu.be/pfyqesPj0Eg)
+[![해외 리액션3](http://img.youtube.com/vi/pfyqesPj0Eg/0.jpg)](https://youtu.be/pfyqesPj0Eg?t=0s)
 
 
-[해외 리액션4](https://youtu.be/zjFfyGJ4owE)
+[![해외 리액션4](http://img.youtube.com/vi/zjFfyGJ4owE/0.jpg)](https://youtu.be/zjFfyGJ4owE?t=0s)
+
 
 
 ### 마지막으로
