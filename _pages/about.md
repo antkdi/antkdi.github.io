@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+환영합니다. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+
+쿠가의 흑백세상은 개발자의 눈으로 본 디지털 세계의 깊은 고민과 사색을 담아내는 공간입니다. 
+여기에서는 코드와 기술적 진수를 탐험하며, 0과 1속에서 새로운 관심사를 발견합니다. 
+각 글은 세심한 고민과 집중된 탐구의 결실이며, 함께하는 독자 여러분과 함께 뜻 깊은 대화를 나누기를 기대합니다. 
+
+
+쿠가의 흑백세상, 더 나은 디지털 미래를 함께 꿈꿔봅시다.
