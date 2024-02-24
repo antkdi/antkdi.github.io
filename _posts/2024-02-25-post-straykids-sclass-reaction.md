@@ -126,12 +126,19 @@ Everyday
 
 ### 특 리액션 모움 
 
-https://youtu.be/ApemV4No6cg
+(해외 리액션 모음)[https://youtu.be/ApemV4No6cg]
 
-https://youtu.be/MEwQc_hS750
+(해외 리액션1)[https://youtu.be/MEwQc_hS750]
 
-https://youtu.be/QNOmkLzpDv8
+(해외 리액션2)[https://youtu.be/QNOmkLzpDv8]
 
-https://youtu.be/pfyqesPj0Eg
+(해외 리액션3)[https://youtu.be/pfyqesPj0Eg]
 
-https://youtu.be/zjFfyGJ4owE
+(해외 리액션4)[https://youtu.be/zjFfyGJ4owE]
+
+
+### 마지막으로
+
+JYP에서 엄청난 친구들이 나왔었군요!.
+그들의 행보가 더욱 기대 됩니다.
+
