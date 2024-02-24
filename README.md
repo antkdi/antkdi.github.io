@@ -2,7 +2,7 @@
 
   # Chirpy Jekyll Theme
 
-  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+  A minimal, responsive, and feature-rich Jekyll theme for technical writing.222
 
   [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)][gem]&nbsp;
   [![CI](https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml/badge.svg?branch=master&event=push)][ci]&nbsp;
