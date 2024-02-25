@@ -21,7 +21,7 @@ baseurl: ""
 masthead_title: "Binary 한세상"
 twitter_username: username
 github_username: antkdi
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark 
 search: true
 
 # Build settings
