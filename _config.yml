@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "ko-KR"
-title: "쿠가의 흑백세상"
+title: "Binary World"
 email: "antkdi@gmail.com"
 description: "반복하며 함께 성장하는 블로그"
 baseurl: ""
 url: "https://antkdi.github.io"
-masthead_title: "코딩 하는 쿠가의 Binary World"
+masthead_title: "Binary World"
 twitter_username: username
 github_username: antkdi
 minimal_mistakes_skin: dark 
